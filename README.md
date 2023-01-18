@@ -4,8 +4,6 @@
 
 - 💬 Ask me about **Java, Kotlin, Python, Swift, Algorithm, Math, Pyhsics**
 
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
-
 
 <br><br>
 
