@@ -14,7 +14,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellSousa)](https://github.com/DaniellSousa/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=DaniellSousa&show_icons=true"/>
+<!--<img src="https://github-readme-stats.vercel.app/api?username=DaniellSousa&show_icons=true"/>-->
 
 <br><br>
 
