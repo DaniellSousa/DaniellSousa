@@ -2,7 +2,7 @@
 
 - 🔥 Mobile Developer & Computer Scientist & Physics and Artificial Intelligence Student
 
-- 💬 Ask me about **Java, Kotlin, Python, Swift, Algorithms, Math, Pyhsics**
+- 💬 Ask me about **Java, Kotlin, Python, Swift, Algorithms, Math, Physics**
 
 
 <br>
