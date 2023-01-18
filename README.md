@@ -1,6 +1,10 @@
 ### Hi there, I am Daniel Monteiro 👋
 
-- 🔥 Mobile Developer & Computer Scientist & Physics and Artificial Intelligence Student
+- 🔥 Mobile Developer
+- 🔥 Computer Scientist
+- 🔥 Physics and Artificial Intelligence Student
+- 🔥 Expanding knowledge in Software Engeenering
+- 🔥 Expanding knowledge in Mobile Development
 
 - 💬 Ask me about **Java, Kotlin, Python, Swift, Algorithms, Math, Physics**
 
