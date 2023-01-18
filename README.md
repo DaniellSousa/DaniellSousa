@@ -2,14 +2,13 @@
 
 - 🔥 Mobile Developer & Computer Scientist & Physics and Artificial Intelligence Student
 
-- 💬 Ask me about **Java, Kotlin, Python, Swift, Algorithm, Math, Pyhsics**
+- 💬 Ask me about **Java, Kotlin, Python, Swift, Algorithms, Math, Pyhsics**
 
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
-
 ## ⚙️ &nbsp;GitHub Analytics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellSousa)](https://github.com/DaniellSousa/github-readme-stats)
 
 <p align="left">
 
